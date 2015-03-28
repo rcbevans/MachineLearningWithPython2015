@@ -7,6 +7,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Machine Learning With Pytho
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Preprocessing and Exploring", "Preprocessing and Exploring\Preprocessing and Exploring.pyproj", "{FBE7B9C9-39B8-4E33-A676-E44139D807F7}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Build and Evaluate a KNN Classifier", "Build and Evaluate a KNN Classifier\Build and Evaluate a KNN Classifier.pyproj", "{19531FCB-2049-4F52-B646-6B823F4DB1E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,8 @@ Global
 		{356C057E-F487-47F7-AED3-86FEFEFAEFF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBE7B9C9-39B8-4E33-A676-E44139D807F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FBE7B9C9-39B8-4E33-A676-E44139D807F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19531FCB-2049-4F52-B646-6B823F4DB1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19531FCB-2049-4F52-B646-6B823F4DB1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
